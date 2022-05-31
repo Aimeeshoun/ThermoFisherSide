@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+ThermoFisherVRSim/Content/Graybox/Graybox_Models/
+
+ThermoFisherVRSim/Content/StarterContent/Shapes/
+
+ThermoFisherVRSim/Content/StarterContent/Architecture/
+
+ThermoFisherVRSim/Content/StarterContent/Materials/
